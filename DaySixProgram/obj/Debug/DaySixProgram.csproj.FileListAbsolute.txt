@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DaySixProgram\DaySixProgram\bin\Debug\DaySixProgram.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DaySixProgram\DaySixProgram\bin\Debug\DaySixProgram.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DaySixProgram\DaySixProgram\bin\Debug\DaySixProgram.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DaySixProgram\DaySixProgram\obj\Debug\DaySixProgram.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DaySixProgram\DaySixProgram\obj\Debug\DaySixProgram.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DaySixProgram\DaySixProgram\obj\Debug\DaySixProgram.pdb
